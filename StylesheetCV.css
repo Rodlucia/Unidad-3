@@ -1,0 +1,54 @@
+h1{
+    font-family:monospace;
+    text-align: center;
+    background-color: rgb(243, 203, 116);
+   
+    }
+
+html{
+    padding:5px;
+    background-color: rgb(240, 178, 137);
+}
+
+img {
+    float: right;
+    
+  }
+
+   h2{
+       
+       font-family:monospace;
+       font-size: xx-large;
+       text-align: center;
+   }
+   h3{
+    
+    font-family:monospace;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+h4{
+    
+    font-family:monospace;
+    font-size: xx-large;
+    
+}
+h5{
+    text-align: left;
+    font-family:monospace;
+    font-size: xx-large
+}
+
+h6{
+    text-align: left;
+    font-family:monospace;
+    font-size: xx-large
+}
+
+p{
+    font-family:monospace;
+    font-size:large
+}
+
+

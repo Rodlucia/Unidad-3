@@ -1,0 +1,19 @@
+h1{
+    font-family:monospace;
+    text-align: center;
+    background-color: rgb(243, 152, 116);
+   
+    }
+
+html{
+    padding:5px;
+    background-color: rgb(240, 178, 137);
+}
+
+form {
+    position: relative;
+  
+    width  : 740px;
+    height : 498px;
+    margin : 0 auto;
+}
